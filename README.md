@@ -1,4 +1,4 @@
-Hey
+Greetings fellow traveler...
 -------
 
 #### My name is Kayo Buchholz, and I'm a self-taught web-developer currently residing in Germany and focusing on the Javascript language and its frameworks. 
