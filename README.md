@@ -9,4 +9,4 @@ You can check out my pinned projects below, if you're so inclined.
 
 Thank you for visiting my profile, and please feel free to contact me if you have any questions or would like to work together.
 
-[![myLinkedin](https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg | width = 50)](https://www.linkedin.com/in/kayo-buchholz-5b497760/)
+[![myLinkedin](https://www.linkedin.com/favicon.ico)](https://www.linkedin.com/in/kayo-buchholz-5b497760/)
