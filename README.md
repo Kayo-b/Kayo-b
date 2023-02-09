@@ -7,6 +7,6 @@ At this point in my journey I'm focusing on my React skills and should be able t
 
 You can check out my pinned projects below, if you're so inclined.
 
-Thank you for visiting my profile, and please feel free to contact me if you have any questions or would like to work together.
+Thank you for visiting my profile, and please feel free to contact me at kyo.bhz@gmail.com if you have any questions or would like to work together.
 
-[![myLinkedin](https://www.linkedin.com/favicon.ico)](https://www.linkedin.com/in/kayo-buchholz-5b497760/)
+[![myLinkedin](https://www.linkedin.com/favicon.ico)](https://www.linkedin.com/in/kayo-buchholz-5b497760/) 
