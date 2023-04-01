@@ -1,7 +1,7 @@
 Greetings, traveler
 -------
 
-Self-taught web-developer currently residing in Germany and focusing on the Javascript/Typescript language and its frameworks. 
+I'm a self-taught web-developer currently residing in Germany and focusing on the Javascript/Typescript language and its frameworks. 
 
 At this point in my journey I'm focusing on my React skills and should be able to start building some bigger projects soon, maybe a Twitter clone or something a bit more original, who knows...
 
